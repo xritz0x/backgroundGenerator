@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	font-size: 18px;
+	padding: 10px;
+	letter-spacing: 3px;
+	font-family: Ubuntu Mono;
+	font-style: italic;
+}
+button {
+	display: block;
+	margin: 20px auto;
+}
